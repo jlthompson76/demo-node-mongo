@@ -1,0 +1,28 @@
+{
+  "name": "demo-node-mongo",
+  "version": "1.0.0",
+  "description": "CodeSquad Class Demo - MongoDB and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "CodeSquad",
+    "MongoDB",
+    "Node.js",
+    "database"
+  ],
+  "author": "Jamie L. Thompson",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "mongodb": "^3.5.7",
+    "nodejs": "0.0.0"
+  }
+}
